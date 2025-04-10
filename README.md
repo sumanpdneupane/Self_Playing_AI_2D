@@ -33,3 +33,8 @@ self_playing_ai_2d/
 └── utils.py                # Misc helpers
 
 ```
+
+### How to Run Game
+```
+Coming soon
+``
