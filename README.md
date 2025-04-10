@@ -13,10 +13,15 @@ This allows the AI to learn from scratch and adapt to any 2D game, even if
 it has never seen it before. Over time, it will improve its decision-making 
 by recognizing patterns and optimizing its actions to maximize rewards across 
 different game types.
+
+Problems:
+- Survival Of the Fitness
+- State of the Art of Performance
+- Human can play multiple games with a single brain but AI can't. So, generalizing 
+the game play
 ```
 
-### Flexible game-playing AI: adapting to multiple games and 
-### board sizes (Survival Of the Fitness)
+### Flexible game-playing AI: adapting to multiple games and board sizes
 ```
 https://arxiv.org/html/2408.13871v1
 ```
@@ -37,4 +42,4 @@ self_playing_ai_2d/
 ### How to Run Game
 ```
 Coming soon
-``
+```
